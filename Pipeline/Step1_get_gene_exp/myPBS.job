@@ -1,0 +1,17 @@
+#PBS -N mypipeline
+#PBS -l walltime=40:00:00
+#PBS -l nodes=1:ppn=1
+#PBS -j oe
+#PBS -l mem=16GB
+
+
+
+
+cd /users/PHS0293/ohu0404/project/expression_formating
+cp gene_list $TMPDIR
+cp main_single_file_mod.py $TMPDIR 
+cd $TMPDIR
+
+    
+python main_single_file_mod.py gene_list
+cp -avr results /users/PHS0293/ohu0404/project/expression_formating

@@ -1,0 +1,13 @@
+gimme_132_MEME_3_w10	conserved	thaliana AT3G01700 : 320@187; lyrata fgenesh2_kg.3__46__AT3G01700.1 : 320	thaliana AT4G34440 : 135@50; lyrata Al_scaffold_0007_610 : 135	thaliana AT3G18810 : 851@586; lyrata scaffold_302227.1 : 23,851	thaliana AT2G18470 : 812@753; lyrata Al_scaffold_0003_3824 : 812
+gimme_16_BioProspector_w12_1	conserved	thaliana AT3G01700 : 404,962@265,820; lyrata fgenesh2_kg.3__46__AT3G01700.1 : 962	thaliana AT1G49270 : 817@718; lyrata fgenesh1_pm.C_scaffold_1003128 : 817	thaliana AT3G18810 : 556,888@293,623; lyrata scaffold_302227.1 : 556	thaliana AT2G18470 : 308,920@270,854; lyrata Al_scaffold_0003_3824 : 920
+gimme_13_BioProspector_w10_3	conserved	thaliana AT3G18810 : 852@587; lyrata scaffold_302227.1 : 852	thaliana AT2G18470 : 608@551; lyrata Al_scaffold_0003_3824 : 332,608
+DME_GADGAYKAS	conserved	thaliana AT4G34440 : 938@829; lyrata Al_scaffold_0007_610 : 938	thaliana AT3G18810 : 553@290; lyrata scaffold_302227.1 : 553
+gimme_143_MEME_4_w12	conserved	thaliana AT1G49270 : 454@358; lyrata fgenesh1_pm.C_scaffold_1003128 : 454	thaliana AT4G34440 : 220@132; lyrata Al_scaffold_0007_610 : 220	thaliana AT3G18810 : 666@402; lyrata scaffold_302227.1 : 666
+gimme_104_Improbizer_GTGCAACGGAGAGT	conserved	thaliana AT3G01700 : 302@169; lyrata fgenesh2_kg.3__46__AT3G01700.1 : 302	thaliana AT4G34440 : 1053@944; lyrata Al_scaffold_0007_610 : 1053
+gimme_146_MEME_7_w12	conserved	thaliana AT3G01700 : 325@192; lyrata fgenesh2_kg.3__46__AT3G01700.1 : 325,597
+gimme_105_Improbizer_AACACACGTTTATTAGATGTTT	conserved	thaliana AT1G24520 : 773,1042@704,956; lyrata scaffold_103015.1 : 1042	thaliana AT1G49270 : 798@699; lyrata fgenesh1_pm.C_scaffold_1003128 : 798	thaliana AT2G18470 : 818@759; lyrata Al_scaffold_0003_3824 : 818
+DME_GATYTKRHG	conserved	thaliana AT3G01700 : 404@265; lyrata fgenesh2_kg.3__46__AT3G01700.1 : 404	thaliana AT3G18810 : 494@231; lyrata scaffold_302227.1 : 494
+DME_GRHTGDTGA	conserved	thaliana AT1G24520 : 843@763; lyrata scaffold_103015.1 : 843	thaliana AT3G18810 : 552@289; lyrata scaffold_302227.1 : 552
+gimme_92_MDmodule_Motif.12.3	conserved	thaliana AT2G18470 : 308,920@270,854; lyrata Al_scaffold_0003_3824 : 920
+DME_MARKGDSRGA	conserved	thaliana AT3G01700 : 155@22; lyrata fgenesh2_kg.3__46__AT3G01700.1 : 155	thaliana AT1G24520 : 1070@984; lyrata scaffold_103015.1 : 1070	thaliana AT4G34440 : 151,378,917@63,288,808; lyrata Al_scaffold_0007_610 : 151,378,917	thaliana AT2G18470 : 1010@944; lyrata Al_scaffold_0003_3824 : 1010
+gimme_102_Improbizer_GCGTTATACCCGAGGATCAG	conserved	thaliana AT3G18810 : 539@276; lyrata scaffold_302227.1 : 539

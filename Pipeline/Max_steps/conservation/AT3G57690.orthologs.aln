@@ -1,0 +1,90 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+AT3G57690                           TGGGAAAGGGAAAATTCAAGTATGTACATTAATCAGCTTTAAACA-ATAC
+fgenesh2_kg.5__2211__AT3G57690      ------------AATTATTAGATCTCTGTTATT--GCTATGAATATATGC
+                                                ****     ** *   *** *  *** * ** * ** *
+
+AT3G57690                           AAATTTATTAATATTGATCTTATGAATTTTTTGTTGTTGTATGTTTTGTG
+fgenesh2_kg.5__2211__AT3G57690      ---TTTAT--GTTAGGATTTCACG----TTTTGCCTTCGT----TTAGAA
+                                       *****   *   *** * * *    *****   * **    ** *  
+
+AT3G57690                           ATTTTGCAAGAGCATAACAGAGCTAAACGATGGGTCGGCTTTG---TTTG
+fgenesh2_kg.5__2211__AT3G57690      GAATTATATTCACACGACGAAGA-ACACGATGAATTCAATTAAAGCTTCC
+                                       **  *    **  **  **  * ******  *    **     **  
+
+AT3G57690                           TGAC-GGTGGCTAAGTATTTGTCTCCGTCTTTACACGAAATTGATCAAGT
+fgenesh2_kg.5__2211__AT3G57690      TAACTGGTACTTCGTTGTTCCTTTTTTTTTTTTTTGGTTAATTATCATGT
+                                    * ** ***   *   * **  * *   * ***    *  * * **** **
+
+AT3G57690                           AGGGATTGCACCTGATGTACAGTGTACCACAGGTATGATCGA--TTC--T
+fgenesh2_kg.5__2211__AT3G57690      T--TATTGTTTCCGAAAT-TATTTTTTCCTGGTTAATTCCGAAATTCAAT
+                                        ****   * **  *  * * *  *   * **    ***  ***  *
+
+AT3G57690                           TTGACCGCTGAGATAGTTGAGAAGATGAACAGTTCGGTTCCATTGCTTGA
+fgenesh2_kg.5__2211__AT3G57690      TTAACTTTTCCAA-AATTAATTAGAT------TTCATTAAGGGTAATT-A
+                                    ** **   *   * * ** *  ****      ***  *     *  ** *
+
+AT3G57690                           AGCAGACTCATGTG---TTATGGTCGCTGAGCACGAACTTGAGGCTCGAC
+fgenesh2_kg.5__2211__AT3G57690      AGTAA--TTACGTAAAATCAAGG--ACTCAACAAGAGCCGAGAGTCCGAC
+                                    ** *   * * **    * * **   ** * ** ** *     *  ****
+
+AT3G57690                           GATCTAATGGAACAGCTTCTTGAGGGTT------------TTGGGCGGTT
+fgenesh2_kg.5__2211__AT3G57690      ACGTCAGCAAAAACACTTCTCAAATATTGTTATATATAGATCATATAATA
+                                         *    **   *****  *   **            *       * 
+
+AT3G57690                           TCATCGTGAATATTTATAGGA---------CAAGTTTATGTTGT------
+fgenesh2_kg.5__2211__AT3G57690      TGATGGTAATTTTATATAGAGGTTATTGTTTACATTTGTTTTGCCCCCAG
+                                    * ** ** * * * *****            *  *** * ***       
+
+AT3G57690                           ---ATATATTGT-GATAGTTCCATGT-ACAAATCTATCTGACACTTACTG
+fgenesh2_kg.5__2211__AT3G57690      TTAATGTTTTCTTGATGGGTC-ATGTTGCAGATCTA--TAAAACGTAATC
+                                       ** * ** * *** * ** ****  ** *****  * * ** ** * 
+
+AT3G57690                           TTGTTTCCTTCTA-TACGTAAAGTTTAGTGAATTTAGATTAGTAAAAGAG
+fgenesh2_kg.5__2211__AT3G57690      ATCTTTGAATGTAGCATTTGGAGTTT-GTTAATATCGAA-AACAACACCT
+                                     * ***   * **  *  *  ***** ** *** * **  *  ** *   
+
+AT3G57690                           TCTTAA-----GGATCTTCTTTT-TCT-TAGATATTGT--AATATTGATA
+fgenesh2_kg.5__2211__AT3G57690      TACTAACAATTAGATTTTATTTTGTATATAGGTTTTGTGTAAT-TTAACA
+                                    *  ***      *** ** **** * * *** * ****  *** ** * *
+
+AT3G57690                           TACACC-----CAAAATAACCCAAACTGAAACTTTTCATATTATTCTCAT
+fgenesh2_kg.5__2211__AT3G57690      CAAATTTTCTTCGAATTAACC--AACTAGAGATGTACAAAAGAATTTTGC
+                                     * *       * ** *****  ****  *  * * ** *  * * *   
+
+AT3G57690                           ATTGAAGTCCCCGA-AGATTAGATGAAAAAGAAAAAGAAAAAACGTCATG
+fgenesh2_kg.5__2211__AT3G57690      ATTTGATTACCTAATATGTTGTATCAT--TGTATGTGAAAGATCT-----
+                                    ***  * * **  * *  **  ** *    * *   **** * *      
+
+AT3G57690                           AAAAGAAATCTGATAACCGGATGGTGATATGAAAAACTCATGTTCATGTA
+fgenesh2_kg.5__2211__AT3G57690      -----AAATTTTATCTTTCTGTAACGAAATTGAAA-CTCATGTTTCTGTA
+                                         **** * **       *   ** **  *** ********  ****
+
+AT3G57690                           ACAAGAAAATACAAACAGAAATGCTAAAATAAATCTAAGCCACATGTTGC
+fgenesh2_kg.5__2211__AT3G57690      ACAAGAATATACAAACAGAAATGCGAAAATAAATCTAAGCCACATATTGC
+                                    ******* **************** ******************** ****
+
+AT3G57690                           AACTCTTTTCACCGTGATTGTAGTTAAATTTAACGGCGAATTAGTTATTA
+fgenesh2_kg.5__2211__AT3G57690      AACTCTTTTCACCGTGATTATAGTTACATTTAACGGCGACTAAGTTATTT
+                                    ******************* ****** ************ * ******* 
+
+AT3G57690                           TTGACCATCATAAGTTTTGTTACCCTCCTAATGTT---CCTTAAACTTAG
+fgenesh2_kg.5__2211__AT3G57690      TTGACCATCAGAATTTTTGTTACTCTCCTAATGTTGTTCCTTAAACTCTT
+                                    ********** ** ********* ***********   *********   
+
+AT3G57690                           TTATTTTTAGGTAAATCAAA-GTAAATATTACTAAAAATAACACTAGTTC
+fgenesh2_kg.5__2211__AT3G57690      TTATTTTTAGGTAAAGCAAAAGTAAATATTACTAAAAATAACAAAAGTTC
+                                    *************** **** **********************  *****
+
+AT3G57690                           CACACATATAAATTCCCGATCAACACCATCCATATTCCTCAGACCTGCAA
+fgenesh2_kg.5__2211__AT3G57690      CACACATATAAATTCCCCATCAACACAATCCATATTCCTCAGACCTGCAA
+                                    ***************** ******** ***********************
+
+AT3G57690                           GAACTTTAAAAAG-CACAAAAACTAAATAAAAAGAAGAAAAGAAAAGCCT
+fgenesh2_kg.5__2211__AT3G57690      GAACTTCAAAAAAACACAAAAACTAAATAAAAAGAAGAAAAGAAAAGCCT
+                                    ****** *****  ************************************
+
+AT3G57690                           TTCAGGTCTCAAACA
+fgenesh2_kg.5__2211__AT3G57690      TTCAGGTCTCAA-CA
+                                    ************ **

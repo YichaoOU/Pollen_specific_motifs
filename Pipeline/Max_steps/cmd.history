@@ -1,0 +1,571 @@
+Xshell 5 (Build 1060)
+Copyright (c) 2002-2017 NetSarang Computer, Inc. All rights reserved.
+
+Type `help' to learn how to use Xshell prompt.
+[c:\~]$ 
+
+Connecting to 192.148.247.141:22...
+Connection established.
+To escape to local shell, press Ctrl+Alt+].
+
+Last login: Mon Mar 11 22:28:58 2019 from c-73-252-37-162.hsd1.tn.comcast.net
+************************************************************************
+Welcome to the Ohio Supercomputer Center!
+PLEASE SEE THE OSC SUPERCOMPUTING DOCUMENTATION
+FOR UP-TO-DATE INFORMATION ON OUR RESOURCES:
+https://www.osc.edu/services/cluster_computing
+For questions or assistance, contact oschelp@osc.edu
+
+To check for currently known issues, please visit
+https://www.osc.edu/resources/technical_support/known_issues
+and follow @HPCNotices on Twitter.
+************************************************************************
+
+************************************************************************
+
+As of 2019-03-31T17:10:02.000000 userid ohu0404 on /fs/project/PHS0293 used 2673 GiB of quota 0 GiB and 129069 files of quota 0 files
+As of 2019-03-31T17:10:02.000000 project/group PHS0293 on /fs/project used 2673 GiB of quota 5120 GiB and 129072 files of quota 1000000 files
+As of 2019-03-31T17:10:02.000000 userid ohu0404 on /fs/scratch used 0 GiB of quota 0 GiB and 0 files of quota 0 files
+As of 2019-03-31T17:07:00.000000 userid ohu0404 on /users/PHS0293 used 371.70 GiB of quota 500 GiB and 484052 files of quota 1000000 files
+
+-bash-4.2$ ls
+ChIP-seq.ipynb  Documents                envs          juicebox  Music     Pictures  project  SA-liang           summerize.ipynb  test            Videos
+databases       Downloads                errorlog.txt  local     ondemand  pkgs      Public   scikit_learn_data  temp             trackML.ipynb   Wendy
+Desktop         DREAM_single_cell.ipynb  intel         Marilyn   perl5     Prashant  R        seaborn-data       Templates        Untitled.ipynb
+-bash-4.2$ cd project/
+-bash-4.2$ ls
+Brugia             Dr_Drews  gamshare  HiC_project  liyc         motif_selection_evaluation   motif_selection_paper  Shigella                Supermotif  test
+data_mining_class  Elnitski  gRNA      HRGP         matlab_test  motif_selection_evaluation2  Rambutan               stress_reponsive_genes  tabu-PNPSC  yating
+-bash-4.2$ ll -hst
+total 120K
+8.0K drwxr-xr-x 25 ohu0404 PHS0293 8.0K Mar 11 23:38 gRNA
+4.0K drwxr-xr-x 29 ohu0404 PHS0293 4.0K Jan  2 22:42 motif_selection_paper
+4.0K drwxr-xr-x 33 ohu0404 PHS0293 4.0K Oct 30 21:39 Brugia
+4.0K drwxr-xr-x  2 ohu0404 PHS0293 4.0K Oct 30 21:03 test
+4.0K drwxr-xr-x  9 ohu0404 PHS0293 4.0K Sep  6  2018 gamshare
+8.0K drwxr-xr-x 34 ohu0404 PHS0293 8.0K Mar  4  2018 HRGP
+4.0K drwxr-xr-x  5 ohu0404 PHS0293 4.0K Jan 31  2018 liyc
+ 12K drwxr-xr-x 10 ohu0404 PHS0293  12K Jan 26  2018 motif_selection_evaluation
+4.0K drwxr-xr-x  3 ohu0404 PHS0293 4.0K Dec  4  2017 data_mining_class
+ 12K drwxr-xr-x 10 ohu0404 PHS0293  12K Oct 24  2017 motif_selection_evaluation2
+4.0K drwxr-xr-x  4 ohu0404 PHS0293 4.0K Oct 18  2017 Supermotif
+4.0K drwxr-xr-x  2 ohu0404 PHS0293 4.0K Aug  7  2017 tabu-PNPSC
+4.0K drwxr-xr-x  2 ohu0404 PHS0293 4.0K Aug  7  2017 yating
+4.0K drwxr-xr-x  2 ohu0404 PHS0293 4.0K Aug  7  2017 Dr_Drews
+4.0K drwxr-xr-x  5 ohu0404 PHS0293 4.0K Jul 16  2017 HiC_project
+4.0K drwxr-xr-x  5 ohu0404 PHS0293 4.0K Jun 26  2017 Shigella
+4.0K drwxr-xr-x  3 ohu0404 PHS0293 4.0K Jun 24  2017 stress_reponsive_genes
+4.0K drwxr-xr-x  2 ohu0404 PHS0293 4.0K Apr 29  2017 matlab_test
+4.0K drwxr-xr-x  4 ohu0404 PHS0293 4.0K Mar 19  2017 Elnitski
+ 20K drwxr-xr-x  2 ohu0404 PHS0293  20K Feb 20  2017 Rambutan
+-bash-4.2$ git
+usage: git [--version] [--help] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p|--paginate|--no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+The most commonly used git commands are:
+   add        Add file contents to the index
+   bisect     Find by binary search the change that introduced a bug
+   branch     List, create, or delete branches
+   checkout   Checkout a branch or paths to the working tree
+   clone      Clone a repository into a new directory
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   fetch      Download objects and refs from another repository
+   grep       Print lines matching a pattern
+   init       Create an empty Git repository or reinitialize an existing one
+   log        Show commit logs
+   merge      Join two or more development histories together
+   mv         Move or rename a file, a directory, or a symlink
+   pull       Fetch from and merge with another repository or a local branch
+   push       Update remote refs along with associated objects
+   rebase     Forward-port local commits to the updated upstream head
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+   show       Show various types of objects
+   status     Show the working tree status
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+'git help -a' and 'git help -g' lists available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+-bash-4.2$ git clone https://github.com/YichaoOU/Pollen_specific_motifs
+Cloning into 'Pollen_specific_motifs'...
+remote: Enumerating objects: 51, done.
+remote: Counting objects: 100% (51/51), done.
+remote: Compressing objects: 100% (42/42), done.
+remote: Total 51 (delta 4), reused 48 (delta 4), pack-reused 0
+Unpacking objects: 100% (51/51), done.
+-bash-4.2$ ls
+Brugia             HiC_project                  motif_selection_paper   tabu-PNPSC
+data_mining_class  HRGP                         Pollen_specific_motifs  test
+Dr_Drews           liyc                         Rambutan                yating
+Elnitski           matlab_test                  Shigella
+gamshare           motif_selection_evaluation   stress_reponsive_genes
+gRNA               motif_selection_evaluation2  Supermotif
+-bash-4.2$ cd Pollen_specific_motifs/
+-bash-4.2$ ls
+Data  Figures  Latest-1-10-19-YL.docx  PPTs  README.md  Tables
+-bash-4.2$ mkdir Pipeline
+-bash-4.2$ cd Pipeline/
+-bash-4.2$ ls
+-bash-4.2$ ls
+-bash-4.2$ mkdir Step1_get_gene_exp
+-bash-4.2$ cd Step1_get_gene_exp/
+-bash-4.2$ cp /users/PHS0293/ohu0404/project/HRGP/expression_formating/*.py .
+-bash-4.2$ cp /users/PHS0293/ohu0404/project/HRGP/expression_formating/gene_list .
+-bash-4.2$ ls
+gene_list  main_single_file_mod.py
+-bash-4.2$ cp /users/PHS0293/ohu0404/project/HRGP/expression_formating/job_single myPBS.job
+-bash-4.2$ ls
+gene_list  main_single_file_mod.py  myPBS.job
+-bash-4.2$ cd ..
+-bash-4.2$ ls
+Step1_get_gene_exp
+-bash-4.2$ ls
+Step1_get_gene_exp
+-bash-4.2$ mkdir Max_steps
+-bash-4.2$ cd Max_steps/
+-bash-4.2$ ls
+-bash-4.2$ pwd
+/users/PHS0293/ohu0404/project/Pollen_specific_motifs/Pipeline/Max_steps
+-bash-4.2$ wget http://planttfdb.cbi.pku.edu.cn/download/motif/Ath_TF_binding_motifs.meme.gz
+--2019-03-31 23:21:47--  http://planttfdb.cbi.pku.edu.cn/download/motif/Ath_TF_binding_motifs.meme.gz
+Resolving planttfdb.cbi.pku.edu.cn (planttfdb.cbi.pku.edu.cn)... 202.205.131.12
+Connecting to planttfdb.cbi.pku.edu.cn (planttfdb.cbi.pku.edu.cn)|202.205.131.12|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111551 (109K) [application/x-gzip]
+Saving to: ‘Ath_TF_binding_motifs.meme.gz’
+
+100%[==================================================================================================================================>] 111,551      117KB/s   in 0.9s   
+
+2019-03-31 23:21:50 (117 KB/s) - ‘Ath_TF_binding_motifs.meme.gz’ saved [111551/111551]
+
+-bash-4.2$ ls
+Ath_TF_binding_motifs.meme.gz
+-bash-4.2$ gunzip Ath_TF_binding_motifs.meme.gz 
+-bash-4.2$ ls
+Ath_TF_binding_motifs.meme
+-bash-4.2$ cp ../../
+Data/                   .git/                   Pipeline/               README.md               
+Figures/                Latest-1-10-19-YL.docx  PPTs/                   Tables/                 
+-bash-4.2$ cp ../../../
+Brugia/                      gRNA/                        motif_selection_evaluation/  Shigella/                    yating/
+data_mining_class/           HiC_project/                 motif_selection_evaluation2/ stress_reponsive_genes/      
+Dr_Drews/                    HRGP/                        motif_selection_paper/       Supermotif/                  
+Elnitski/                    liyc/                        Pollen_specific_motifs/      tabu-PNPSC/                  
+gamshare/                    matlab_test/                 Rambutan/                    test/                        
+-bash-4.2$ cp ../../
+Data/                   .git/                   Pipeline/               README.md               
+Figures/                Latest-1-10-19-YL.docx  PPTs/                   Tables/                 
+-bash-4.2$ cp ../../../
+Brugia/                      gRNA/                        motif_selection_evaluation/  Shigella/                    yating/
+data_mining_class/           HiC_project/                 motif_selection_evaluation2/ stress_reponsive_genes/      
+Dr_Drews/                    HRGP/                        motif_selection_paper/       Supermotif/                  
+Elnitski/                    liyc/                        Pollen_specific_motifs/      tabu-PNPSC/                  
+gamshare/                    matlab_test/                 Rambutan/                    test/                        
+-bash-4.2$ cp ../../../HRGP/
+conservation/                                              MD_hrgp_TSS_final_motifs.pwm
+co_regulated_genes/                                        MD_hrgp_TSS_final_neg.mhit
+expression_formating/                                      MD_hrgp_TSS_final_pos.mhit
+expression_formating_v2/                                   MD_hrgp_TSS_greedy_multicover_algo_latexTables.aux
+expression_score/                                          MD_hrgp_TSS_greedy_multicover_algo_latexTables.log
+gene_description/                                          MD_hrgp_TSS_greedy_multicover_algo_latexTables.pdf
+histogram/                                                 MD_hrgp_TSS_greedy_multicover_algo_rami_style_output/
+homer/                                                     MD_hrgp_TSS_Motif_Discovery/
+hrgp_back.fasta                                            MD_hrgp_TSS_Motif_Filtering/
+hrgpconfig.conf                                            MD_hrgp_TSS_Motif_Output/
+HRGP_data_matrix/                                          MD_hrgp_TSS_Motif_Scanning/
+hrgp_fore.fasta                                            MD_hrgp_TSS_motif_selection_greedy/
+HRGP_motifDiscRichard166.o585694                           MD_hrgp_TSS_neg.mhit
+HRGP_motifDiscRichard166.o619872                           MD_hrgp_TSS_pos.mhit
+known_TFBS/                                                MD_hrgp_TSS_prefilter/
+liyc_new_sequences.o903923                                 motifdiscoveryJOB
+liyc_new_sequences.o903929                                 motif_selection/
+Max/                                                       motif_selection_TSS/
+MD_hrgp/                                                   motif_table/
+MD_hrgp.tar.gz                                             new_known_TFBS/
+MD_hrgp_TSS/                                               PCA/
+MD_hrgp_TSS_all_motif_ranking_Motif_discovery_html_report/ PNPSKC/
+MD_hrgp_TSS_all_motifs/                                    pollen-specific-non-HRGP/
+MD_hrgp_TSS_all_motifs.arff                                secondary_analysis/
+MD_hrgp_TSS_all_motifs.pwm                                 TCBB/
+MD_hrgp_TSS_filtered_motifs/                               
+-bash-4.2$ cp ../../../HRGP/known_TFBS/
+ArabidopsisDAPv1.meme         calculate_p_value.py          known_motif.count             known_motif_selection2/       translation_SS/
+ArabidopsisPBM_20140210.meme  generateZ.py                  known_motif_mapping/          non_redundant_motif.py        
+Arabidopsis_thaliana.meme     hrgpconfig.conf               known_motif.pvalue.csv        subPWM.py                     
+ATH_known_motif.meme          JASPAR_CORE_2016_plants.meme  known_motif_selection/        tomtom_out/                   
+-bash-4.2$ cp ../../../HRGP/known_TFBS/subPWM.py .
+-bash-4.2$ nano subPWM.py 
+-bash-4.2$ ls
+Ath_TF_binding_motifs.meme  subPWM.py
+-bash-4.2$ nano max_cutoff_motifs.list
+-bash-4.2$ ls
+Ath_TF_binding_motifs.meme  max_cutoff_motifs.list  subPWM.py
+-bash-4.2$ python subPWM.py max_cutoff_motifs.pwm ../../../HRGP/
+conservation/                                              MD_hrgp_TSS_final_motifs.pwm
+co_regulated_genes/                                        MD_hrgp_TSS_final_neg.mhit
+expression_formating/                                      MD_hrgp_TSS_final_pos.mhit
+expression_formating_v2/                                   MD_hrgp_TSS_greedy_multicover_algo_latexTables.aux
+expression_score/                                          MD_hrgp_TSS_greedy_multicover_algo_latexTables.log
+gene_description/                                          MD_hrgp_TSS_greedy_multicover_algo_latexTables.pdf
+histogram/                                                 MD_hrgp_TSS_greedy_multicover_algo_rami_style_output/
+homer/                                                     MD_hrgp_TSS_Motif_Discovery/
+hrgp_back.fasta                                            MD_hrgp_TSS_Motif_Filtering/
+hrgpconfig.conf                                            MD_hrgp_TSS_Motif_Output/
+HRGP_data_matrix/                                          MD_hrgp_TSS_Motif_Scanning/
+hrgp_fore.fasta                                            MD_hrgp_TSS_motif_selection_greedy/
+HRGP_motifDiscRichard166.o585694                           MD_hrgp_TSS_neg.mhit
+HRGP_motifDiscRichard166.o619872                           MD_hrgp_TSS_pos.mhit
+known_TFBS/                                                MD_hrgp_TSS_prefilter/
+liyc_new_sequences.o903923                                 motifdiscoveryJOB
+liyc_new_sequences.o903929                                 motif_selection/
+Max/                                                       motif_selection_TSS/
+MD_hrgp/                                                   motif_table/
+MD_hrgp.tar.gz                                             new_known_TFBS/
+MD_hrgp_TSS/                                               PCA/
+MD_hrgp_TSS_all_motif_ranking_Motif_discovery_html_report/ PNPSKC/
+MD_hrgp_TSS_all_motifs/                                    pollen-specific-non-HRGP/
+MD_hrgp_TSS_all_motifs.arff                                secondary_analysis/
+MD_hrgp_TSS_all_motifs.pwm                                 TCBB/
+MD_hrgp_TSS_filtered_motifs/                               
+-bash-4.2$ python subPWM.py max_cutoff_motifs.pwm ../../../HRGP/MD_hrgp
+MD_hrgp/                                                   MD_hrgp_TSS_greedy_multicover_algo_latexTables.log
+MD_hrgp.tar.gz                                             MD_hrgp_TSS_greedy_multicover_algo_latexTables.pdf
+MD_hrgp_TSS/                                               MD_hrgp_TSS_greedy_multicover_algo_rami_style_output/
+MD_hrgp_TSS_all_motif_ranking_Motif_discovery_html_report/ MD_hrgp_TSS_Motif_Discovery/
+MD_hrgp_TSS_all_motifs/                                    MD_hrgp_TSS_Motif_Filtering/
+MD_hrgp_TSS_all_motifs.arff                                MD_hrgp_TSS_Motif_Output/
+MD_hrgp_TSS_all_motifs.pwm                                 MD_hrgp_TSS_Motif_Scanning/
+MD_hrgp_TSS_filtered_motifs/                               MD_hrgp_TSS_motif_selection_greedy/
+MD_hrgp_TSS_final_motifs.pwm                               MD_hrgp_TSS_neg.mhit
+MD_hrgp_TSS_final_neg.mhit                                 MD_hrgp_TSS_pos.mhit
+MD_hrgp_TSS_final_pos.mhit                                 MD_hrgp_TSS_prefilter/
+MD_hrgp_TSS_greedy_multicover_algo_latexTables.aux         
+-bash-4.2$ python subPWM.py max_cutoff_motifs.pwm ../../../HRGP/MD_hrgp/
+fasta_to_geme_list.py          MD_hrgp_all_motifs/            MD_hrgp_filtered_motifs/       MD_hrgp_Motif_Filtering/       MD_hrgp_prefilter/
+HRGP.back.list                 MD_hrgp_all_motifs.arff        MD_hrgp_final_motifs.pwm       MD_hrgp_Motif_Output/          pwm_to_gene_list.py
+HRGP.fore.list                 MD_hrgp_all_motifs.motif.list  MD_hrgp_final_neg.mhit         MD_hrgp_Motif_Scanning/        
+HRGP_raw.csv                   MD_hrgp_all_motifs.pwm         MD_hrgp_final_pos.mhit         MD_hrgp_neg.mhit               
+make_csv_file.py               MD_hrgp.conf                   MD_hrgp_Motif_Discovery/       MD_hrgp_pos.mhit               
+-bash-4.2$ python subPWM.py max_cutoff_motifs.pwm ../
+Max_steps/          Step1_get_gene_exp/ 
+-bash-4.2$ python subPWM.py max_cutoff_motifs.pwm ../../
+Data/                   .git/                   Pipeline/               README.md               
+Figures/                Latest-1-10-19-YL.docx  PPTs/                   Tables/                 
+-bash-4.2$ python subPWM.py max_cutoff_motifs.pwm ../../Data/
+processed_data/ raw_data/       
+-bash-4.2$ python subPWM.py max_cutoff_motifs.pwm ../../Data/processed_data/
+ath-homologs.csv             gene_tau_values.tsv          HRGP_gene_expression.tsv.gz  HRGP_raw_both_strand.csv     
+-bash-4.2$ python subPWM.py max_cutoff_motifs.pwm ../../Data/raw_data/HRGP166.genes 
+Ath_TF_binding_motifs.meme  max_cutoff_motifs.list      subPWM.py                   
+-bash-4.2$ python subPWM.py max_cutoff_motifs.pwm ../../
+Data/                   .git/                   Pipeline/               README.md               
+Figures/                Latest-1-10-19-YL.docx  PPTs/                   Tables/                 
+-bash-4.2$ python subPWM.py max_cutoff_motifs.pwm ../../../HRGP/MD_hrgp/
+fasta_to_geme_list.py          MD_hrgp_all_motifs/            MD_hrgp_filtered_motifs/       MD_hrgp_Motif_Filtering/       MD_hrgp_prefilter/
+HRGP.back.list                 MD_hrgp_all_motifs.arff        MD_hrgp_final_motifs.pwm       MD_hrgp_Motif_Output/          pwm_to_gene_list.py
+HRGP.fore.list                 MD_hrgp_all_motifs.motif.list  MD_hrgp_final_neg.mhit         MD_hrgp_Motif_Scanning/        
+HRGP_raw.csv                   MD_hrgp_all_motifs.pwm         MD_hrgp_final_pos.mhit         MD_hrgp_neg.mhit               
+make_csv_file.py               MD_hrgp.conf                   MD_hrgp_Motif_Discovery/       MD_hrgp_pos.mhit               
+-bash-4.2$ python subPWM.py max_cutoff_motifs.pwm ../../../HRGP/MD_hrgp/MD_hrgp_all_motifs.pwm 
+Ath_TF_binding_motifs.meme  max_cutoff_motifs.list      subPWM.py                   
+-bash-4.2$ python subPWM.py max_cutoff_motifs.pwm ../../../HRGP/MD_hrgp/MD_hrgp_all_motifs.pwm max_cutoff_motifs.list 
+-bash-4.2$ ls
+Ath_TF_binding_motifs.meme  max_cutoff_motifs.list  max_cutoff_motifs.pwm  subPWM.py
+-bash-4.2$ meme
+ Usage:	meme	<dataset> [optional arguments]
+
+	<dataset> 		file containing sequences in FASTA format
+	[-h]			print this message
+	[-o <output dir>]	name of directory for output files
+				will not replace existing directory
+	[-oc <output dir>]	name of directory for output files
+				will replace existing directory
+	[-text]			output in text format (default is HTML)
+	[-dna]			sequences use DNA alphabet
+	[-rna]			sequences use RNA alphabet
+	[-protein]		sequences use protein alphabet
+	[-alph <alph file>]	sequences use custom alphabet
+	[-mod oops|zoops|anr]	distribution of motifs
+	[-nmotifs <nmotifs>]	maximum number of motifs to find
+	[-evt <ev>]		stop if motif E-value greater than <evt>
+	[-nsites <sites>]	number of sites for each motif
+	[-minsites <minsites>]	minimum number of sites for each motif
+	[-maxsites <maxsites>]	maximum number of sites for each motif
+	[-wnsites <wnsites>]	weight on expected number of sites
+	[-w <w>]		motif width
+	[-minw <minw>]		minimum motif width
+	[-maxw <maxw>]		maximum motif width
+	[-nomatrim]		do not adjust motif width using multiple
+				alignment
+	[-wg <wg>]		gap opening cost for multiple alignments
+	[-ws <ws>]		gap extension cost for multiple alignments
+	[-noendgaps]		do not count end gaps in multiple alignments
+	[-bfile <bfile>]	name of background Markov model file
+	[-revcomp]		allow sites on + or - DNA strands
+	[-pal]			force palindromes (requires -dna)
+	[-maxiter <maxiter>]	maximum EM iterations to run
+	[-distance <distance>]	EM convergence criterion
+	[-psp <pspfile>]	name of positional priors file
+	[-prior dirichlet|dmix|mega|megap|addone]
+				type of prior to use
+	[-b <b>]		strength of the prior
+	[-plib <plib>]		name of Dirichlet prior file
+	[-maxwords <maxwords>]	maximum number of words to test as EM starts
+	[-spfuzz <spfuzz>]	fuzziness of sequence to theta mapping
+	[-spmap uni|pam]	starting point seq to theta mapping type
+	[-cons <cons>]		consensus sequence to start EM from
+	[-heapsize <hs>]	size of heaps for widths where substring 
+				search occurs
+	[-x_branch]		perform x-branching
+	[-w_branch]		perform width branching
+	[-allw]			include all motif widths from min to max
+	[-bfactor <bf>]		branching factor for branching search
+	[-maxsize <maxsize>]	maximum dataset size in characters
+	[-nostatus]		do not print progress reports to terminal
+	[-p <np>]		use parallel version with <np> processors
+	[-time <t>]		quit before <t> CPU seconds consumed
+	[-sf <sf>]		print <sf> as name of sequence file
+	[-V]			verbose mode
+	[-version]		display the version number and exit
+
+-bash-4.2$ tomtom
+No query motif database supplied
+
+Usage:
+  tomtom [options] <query file> <target file>+
+Options:
+  -o <output dir>  Name of directory for output files;
+                    will not replace existing directory
+  -oc <output dir> Name of directory for output files;
+                    will replace existing directory
+  -xalph           Convert the alphabet of the target motif databases
+                    to the alphabet of the first query motif database
+                    assuming the core symbols of the target motif
+                    alphabet are a subset; default: reject differences
+  -bfile <background file>
+                   Name of background file;
+                    default: use the background from the first query
+                    motif database
+  -motif-pseudo <pseudo count>
+                   Apply the pseudocount to the query and target motifs;
+                    default: apply a pseudocount of 0.1
+  -m <id>          Use only query motifs with a specified id;
+                    may be repeated
+  -mi <index>      Use only query motifs with a specifed index;
+                    may be repeated
+  -thresh <float>  Significance threshold; default: 0.5
+  -evalue          Use E-value threshold; default: q-value
+  -dist allr|ed|kullback|pearson|sandelin|blic1|blic5|llr1|llr5
+                   Distance metric for scoring alignments;
+                    default: pearson
+  -internal        Only allow internal alignments;
+                    default: allow overhangs
+  -min-overlap <int>
+                   Minimum overlap between query and target;
+                    default: 1
+  -incomplete-scores
+                   Ignore unaligned columns in computing scores
+                    default: use complete set of columns
+  -text            Output in text format (default is HTML)
+  -png             Create PNG logos; default: don't create PNG logos
+  -eps             Create EPS logos; default: don't create EPS logos
+  -no-ssc          Don't apply small-sample correction to logos;
+                    default: use small-sample correction
+  -verbosity [1|2|3|4]
+                   Set the verbosity of the program; default: 2 (normal)
+  -version         Print the version and exit
+-bash-4.2$ tomtom max_cutoff_motifs.pwm Ath_TF_binding_motifs.meme 
+Writing results to output directory 'tomtom_out'.
+Processing query 1 out of 13 
+Estimating pi_0 from all 1238 observed p-values.
+Estimating pi_0.
+Estimated pi_0=0.992036
+Processing query 2 out of 13 
+Estimating pi_0 from all 1238 observed p-values.
+Estimating pi_0.
+Estimated pi_0=1
+Processing query 3 out of 13 
+Estimating pi_0 from all 1238 observed p-values.
+Estimating pi_0.
+Estimated pi_0=1
+Processing query 4 out of 13 
+Estimating pi_0 from all 1238 observed p-values.
+Estimating pi_0.
+Estimated pi_0=1
+Processing query 5 out of 13 
+Estimating pi_0 from all 1238 observed p-values.
+Estimating pi_0.
+Estimated pi_0=1
+Processing query 6 out of 13 
+Estimating pi_0 from all 1238 observed p-values.
+Estimating pi_0.
+Estimated pi_0=1
+Processing query 7 out of 13 
+Estimating pi_0 from all 1238 observed p-values.
+Estimating pi_0.
+Estimated pi_0=1
+Processing query 8 out of 13 
+Estimating pi_0 from all 1238 observed p-values.
+Estimating pi_0.
+Estimated pi_0=0.978513
+Processing query 9 out of 13 
+Estimating pi_0 from all 1238 observed p-values.
+Estimating pi_0.
+Estimated pi_0=1
+Processing query 10 out of 13 
+Estimating pi_0 from all 1238 observed p-values.
+Estimating pi_0.
+Estimated pi_0=0.997719
+Processing query 11 out of 13 
+Estimating pi_0 from all 1238 observed p-values.
+Estimating pi_0.
+Estimated pi_0=0.977506
+Processing query 12 out of 13 
+Estimating pi_0 from all 1238 observed p-values.
+Estimating pi_0.
+Estimated pi_0=1
+Processing query 13 out of 13 
+Estimating pi_0 from all 1238 observed p-values.
+Estimating pi_0.
+Estimated pi_0=0.998678
+-bash-4.2$ ls
+Ath_TF_binding_motifs.meme  max_cutoff_motifs.list  max_cutoff_motifs.pwm  subPWM.py  tomtom_out
+-bash-4.2$ cd tomtom_out/
+-bash-4.2$ ls
+tomtom.html  tomtom.txt  tomtom.xml
+-bash-4.2$ less tomtom.txt 
+-bash-4.2$ pwd
+/users/PHS0293/ohu0404/project/Pollen_specific_motifs/Pipeline/Max_steps/tomtom_out
+-bash-4.2$ ls
+tomtom.html  tomtom.txt  tomtom.xml
+-bash-4.2$ cd ..
+-bash-4.2$ ls
+Ath_TF_binding_motifs.meme  max_cutoff_motifs.list  max_cutoff_motifs.pwm  subPWM.py  tomtom_out
+-bash-4.2$ meme2
+meme2alph    meme2images  meme2meme    
+-bash-4.2$ meme2images 
+No motif file!
+Usage:
+    meme2images [options] <motifs file> <output directory>
+Options:
+    -motif <ID>      output only a selected motif; repeatable
+    -eps             output logos in eps format
+    -png             output logos in png format
+    -rc              output reverse complement logos
+    -help            print this usage message
+Description:
+    Creates motif logos from any MEME or DREME motif format.
+-bash-4.2$ meme2images -png max_cutoff_motifs.pwm motif_logo
+-bash-4.2$ ls
+Ath_TF_binding_motifs.meme  max_cutoff_motifs.list  max_cutoff_motifs.pwm  motif_logo  subPWM.py  tomtom_out
+-bash-4.2$ ls
+Ath_TF_binding_motifs.meme  conservation  max_cutoff_motifs.list  max_cutoff_motifs.pwm  motif_logo  subPWM.py  tomtom_out
+-bash-4.2$ cd conservation/
+-bash-4.2$ ls
+AT1G23540.orthologs.aln  AT1G49270.orthologs.aln  AT2G18470.orthologs.aln  AT3G01700.orthologs.aln  AT3G57690.orthologs.aln  AT4G34440.orthologs.aln  ath-homologs.csv
+AT1G23540.orthologs.dnd  AT1G49270.orthologs.dnd  AT2G18470.orthologs.dnd  AT3G01700.orthologs.dnd  AT3G57690.orthologs.dnd  AT4G34440.orthologs.dnd  check_conservation.py
+AT1G23540.orthologs.fa   AT1G49270.orthologs.fa   AT2G18470.orthologs.fa   AT3G01700.orthologs.fa   AT3G57690.orthologs.fa   AT4G34440.orthologs.fa   do_MSA.py
+AT1G24520.orthologs.aln  AT1G54215.orthologs.aln  AT2G24450.orthologs.aln  AT3G18810.orthologs.aln  AT4G33970.orthologs.aln  AT5G14380.orthologs.aln
+AT1G24520.orthologs.dnd  AT1G54215.orthologs.dnd  AT2G24450.orthologs.dnd  AT3G18810.orthologs.dnd  AT4G33970.orthologs.dnd  AT5G14380.orthologs.dnd
+AT1G24520.orthologs.fa   AT1G54215.orthologs.fa   AT2G24450.orthologs.fa   AT3G18810.orthologs.fa   AT4G33970.orthologs.fa   AT5G14380.orthologs.fa
+-bash-4.2$ less  AT1G49270.orthologs.fa
+-bash-4.2$ ls
+AT1G23540.orthologs.aln  AT1G49270.orthologs.aln  AT2G18470.orthologs.aln  AT3G01700.orthologs.aln  AT3G57690.orthologs.aln  AT4G34440.orthologs.aln  Ath.fa
+AT1G23540.orthologs.dnd  AT1G49270.orthologs.dnd  AT2G18470.orthologs.dnd  AT3G01700.orthologs.dnd  AT3G57690.orthologs.dnd  AT4G34440.orthologs.dnd  ath-homologs.csv
+AT1G23540.orthologs.fa   AT1G49270.orthologs.fa   AT2G18470.orthologs.fa   AT3G01700.orthologs.fa   AT3G57690.orthologs.fa   AT4G34440.orthologs.fa   check_conservation.py
+AT1G24520.orthologs.aln  AT1G54215.orthologs.aln  AT2G24450.orthologs.aln  AT3G18810.orthologs.aln  AT4G33970.orthologs.aln  AT5G14380.orthologs.aln  do_MSA.py
+AT1G24520.orthologs.dnd  AT1G54215.orthologs.dnd  AT2G24450.orthologs.dnd  AT3G18810.orthologs.dnd  AT4G33970.orthologs.dnd  AT5G14380.orthologs.dnd  lyrata.fasta.txt
+AT1G24520.orthologs.fa   AT1G54215.orthologs.fa   AT2G24450.orthologs.fa   AT3G18810.orthologs.fa   AT4G33970.orthologs.fa   AT5G14380.orthologs.fa
+-bash-4.2$ fimo 
+Usage: fimo [options] <motif file> <sequence file>
+
+   Options:
+     --alpha <double> (default 1.0)
+     --bgfile <background> (default from NR sequence database)
+     --max-stored-scores <int> (default=100000)
+     --max-strand
+     --motif <id> (default=all)
+     --motif-pseudo <float> (default=0.1)
+     --no-qvalue
+     --norc
+     --o <output dir> (default=fimo_out)
+     --oc <output dir> (default=fimo_out)
+     --parse-genomic-coord
+     --psp <PSP filename> (default none)
+     --prior-dist <PSP distribution filename> (default none)
+     --qv-thresh
+     --skip-matched-sequence
+     --text
+     --thresh <float> (default = 1e-4)
+     --verbosity [1|2|3|4] (default 2)
+     --version (print the version and exit)
+
+   When scanning with a single motif use '-' for <sequence file> to
+     read the database from standard input.
+   Use '--bgfile motif-file' to read the background from the motif file.
+
+-bash-4.2$ fimo --no-qvalue --text ../
+Ath_TF_binding_motifs.meme  max_cutoff_motifs.list      motif_logo/                 tomtom_out/                 
+conservation/               max_cutoff_motifs.pwm       subPWM.py                   
+-bash-4.2$ fimo --no-qvalue --text ../max_cutoff_motifs.pwm Ath.fa >Ath.fimo
+Using motif +gimme_143_MEME_4_w12 of width 12.
+Using motif -gimme_143_MEME_4_w12 of width 12.
+Using motif +gimme_104_Improbizer_GTGCAACGGAGAGT of width 14.
+Using motif -gimme_104_Improbizer_GTGCAACGGAGAGT of width 14.
+Using motif +gimme_146_MEME_7_w12 of width 12.
+Using motif -gimme_146_MEME_7_w12 of width 12.
+Using motif +gimme_16_BioProspector_w12_1 of width 12.
+Using motif -gimme_16_BioProspector_w12_1 of width 12.
+Using motif +gimme_13_BioProspector_w10_3 of width 10.
+Using motif -gimme_13_BioProspector_w10_3 of width 10.
+Using motif +gimme_92_MDmodule_Motif.12.3 of width 12.
+Using motif -gimme_92_MDmodule_Motif.12.3 of width 12.
+Using motif +gimme_132_MEME_3_w10 of width 10.
+Using motif -gimme_132_MEME_3_w10 of width 10.
+Using motif +gimme_105_Improbizer_AACACACGTTTATTAGATGTTT of width 22.
+Using motif -gimme_105_Improbizer_AACACACGTTTATTAGATGTTT of width 22.
+Using motif +gimme_102_Improbizer_GCGTTATACCCGAGGATCAG of width 20.
+Using motif -gimme_102_Improbizer_GCGTTATACCCGAGGATCAG of width 20.
+Using motif +DME_GADGAYKAS of width 9.
+Using motif -DME_GADGAYKAS of width 9.
+Using motif +DME_GRHTGDTGA of width 9.
+Using motif -DME_GRHTGDTGA of width 9.
+Using motif +DME_MARKGDSRGA of width 10.
+Using motif -DME_MARKGDSRGA of width 10.
+Using motif +DME_GATYTKRHG of width 9.
+Using motif -DME_GATYTKRHG of width 9.
+-bash-4.2$ fimo --no-qvalue --text ../max_cutoff_motifs.pwm lyrata.fasta.txt > lyrata.fimo
+Using motif +gimme_143_MEME_4_w12 of width 12.
+Using motif -gimme_143_MEME_4_w12 of width 12.
+Using motif +gimme_104_Improbizer_GTGCAACGGAGAGT of width 14.
+Using motif -gimme_104_Improbizer_GTGCAACGGAGAGT of width 14.
+Using motif +gimme_146_MEME_7_w12 of width 12.
+Using motif -gimme_146_MEME_7_w12 of width 12.
+Using motif +gimme_16_BioProspector_w12_1 of width 12.
+Using motif -gimme_16_BioProspector_w12_1 of width 12.
+Using motif +gimme_13_BioProspector_w10_3 of width 10.
+Using motif -gimme_13_BioProspector_w10_3 of width 10.
+Using motif +gimme_92_MDmodule_Motif.12.3 of width 12.
+Using motif -gimme_92_MDmodule_Motif.12.3 of width 12.
+Using motif +gimme_132_MEME_3_w10 of width 10.
+Using motif -gimme_132_MEME_3_w10 of width 10.
+Using motif +gimme_105_Improbizer_AACACACGTTTATTAGATGTTT of width 22.
+Using motif -gimme_105_Improbizer_AACACACGTTTATTAGATGTTT of width 22.
+Using motif +gimme_102_Improbizer_GCGTTATACCCGAGGATCAG of width 20.
+Using motif -gimme_102_Improbizer_GCGTTATACCCGAGGATCAG of width 20.
+Using motif +DME_GADGAYKAS of width 9.
+Using motif -DME_GADGAYKAS of width 9.
+Using motif +DME_GRHTGDTGA of width 9.
+Using motif -DME_GRHTGDTGA of width 9.
+Using motif +DME_MARKGDSRGA of width 10.
+Using motif -DME_MARKGDSRGA of width 10.
+Using motif +DME_GATYTKRHG of width 9.
+Using motif -DME_GATYTKRHG of width 9.
+-bash-4.2$ python check_conservation.py 
+-bash-4.2$ 
+

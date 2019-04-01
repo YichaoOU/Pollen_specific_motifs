@@ -1,0 +1,90 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+AT2G24450                           ---AGGT--TGTTGAAAC---------GGAAACTGATCAATACTTTGA--
+fgenesh2_kg.4__361__AT2G24450.      AGTAGCCCGTGTTCATATCTGCTCCTAGGAATGTGCGCAACTATCCGAAA
+                                       **    **** * *          ****  **  ***   *  **  
+
+AT2G24450                           -GTTCCTAGTTGGGCTTCGAAAATCTGATCAGCTATTTCTTCGGACAAGA
+fgenesh2_kg.4__361__AT2G24450.      GGAGTCCAATTATCATGCCAAAA--GGAGCAGG-ATTTCC-----CATCA
+                                     *   * * **    * * ****   ** ***  *****      **  *
+
+AT2G24450                           CATGATCGTGGAGATGATCTTTGAGTTTGCTACGGAGAGTTAGATAGA--
+fgenesh2_kg.4__361__AT2G24450.      CCTAATT-TAAGGCCTATGTT-GTGATTGCTAT------TTGTGTAAAAG
+                                    * * **  *   *   ** ** * * ******       **   ** *  
+
+AT2G24450                           TGTAGTC-TGGTTCGGAGGTTGGGAGTTTCAGAATGATTAGTGACTCGTC
+fgenesh2_kg.4__361__AT2G24450.      TGTAATTGTGTTTAAGATAATGGATAATACAGTACTTTAAGTTTCCC---
+                                    **** *  ** **  **   ***    * *** *   * ***  * *   
+
+AT2G24450                           GGGAGTAGAAGAATCAGGGTAAGATCCGAGGCTCTTGATGCTATCAACAT
+fgenesh2_kg.4__361__AT2G24450.      -------TATTTATTACTATAA--TTCGAGA-TCTTGAAATCATCA-CAA
+                                            *   ** *   ***  * ****  ******    **** ** 
+
+AT2G24450                           TCTCGTCATATTCCTCCAGATCTCTGTCAAGAGTGATTATTACCGTGCTT
+fgenesh2_kg.4__361__AT2G24450.      TCTTTCCATAAG----CAAAACTATATAAAATTTCAAAATCTATG-GATC
+                                    ***   ****      ** * ** * * **   * *  **    * * * 
+
+AT2G24450                           AACA-ACCCTAACGACGGATCTTGAGACGTAGTCGTTACT--TGAACATC
+fgenesh2_kg.4__361__AT2G24450.      AGTGTGGCCTGATTATGTATC---------AGT--TTACTATTGTATATG
+                                    *      *** *  * * ***         ***  *****  ** * ** 
+
+AT2G24450                           GAGTTTGATTGATT---CAGTTTCCATCGTCGATCGTAGTGAAATTAGAC
+fgenesh2_kg.4__361__AT2G24450.      TAATTT--CTGTTTTGACAATTTGCAT--TCGCCCTTCG---ACTTTTCC
+                                     * ***   ** **   ** *** ***  ***  * * *   * **   *
+
+AT2G24450                           AAAACTCAGAGATAGAGAGAAAAGATTAGTCGTATGGGAGAGGAGATTGT
+fgenesh2_kg.4__361__AT2G24450.      A----TCTGATCTAGAAAGAACAACAAATTCGT--------------TAT
+                                    *    ** **  **** **** *    * ****              * *
+
+AT2G24450                           TGTGAAATCTGAAATTGTGGAGAAGTGAAGGTGTAATGTTATGTTTATAT
+fgenesh2_kg.4__361__AT2G24450.      CACTTCATCTAACTTCATT---------AGCTTTGGTGCT---TCT---T
+                                          **** *  *  *          ** * *  ** *   * *   *
+
+AT2G24450                           AAACAAGAAAACTCTTGAGGATAATTTGTTCTAACGCGTTAATGTAATTT
+fgenesh2_kg.4__361__AT2G24450.      GAGCGGATGGACT---GAAGATCGTTTCTGAATATGCTTCTATGTTTTTA
+                                     * *      ***   ** ***  *** *    * ** *  ****  ** 
+
+AT2G24450                           CCTTTTTTTTCTTCCATATTGTCCTTTCTTTCTTATTATCTT---CTTAA
+fgenesh2_kg.4__361__AT2G24450.      GCTTTTTTTGCCATGAGACTATTTATTTAGGTCTATAATCTTTGACCTAA
+                                     ******** *    * * * *   **      *** *****   * ***
+
+AT2G24450                           AAGCATTTTTATTGTTGTATTTCCTTTTTTCTTGTTGGTAAA---ACATA
+fgenesh2_kg.4__361__AT2G24450.      ATAAAT----AATGC-GCAGAACACATTCAATTACCGCGAAATATACATG
+                                    *   **    * **  * *   *   **   **   *  ***   **** 
+
+AT2G24450                           ---TCTTCAAAAATAAAATAAATAAAATAAAACATCCTATGACCCTGTCA
+fgenesh2_kg.4__361__AT2G24450.      ATGTGCTTGAGCTTCAAAC--CCCAAAAAGTGCATCCTGTGACCCTGTTA
+                                       *  *  *   * ***      *** *   ****** ********* *
+
+AT2G24450                           CAACTTCCTGATTCTAGCTTCGGACCTCAAGTTGTTGAAGAATTGACTTA
+fgenesh2_kg.4__361__AT2G24450.      CTACTTCTGGATTAGAGCTTAGGACCTCAAGTTGTTGAAGAATTGACTAA
+                                    * *****  ****  ***** *************************** *
+
+AT2G24450                           ATAAAGATTAGGATGGACTTGTCTACGTTGGCTCTGTATCAAT-------
+fgenesh2_kg.4__361__AT2G24450.      ATAAAGATTAGGATGGACTTGTCTACGTTGACTCTATATTAATTCCACCT
+                                    ****************************** **** *** ***       
+
+AT2G24450                           ------------AACG----------------------------------
+fgenesh2_kg.4__361__AT2G24450.      ATTTTATGTTGTAACATCTCATCATTCATTGTGAAAAACAACAAATCTCA
+                                                ***                                   
+
+AT2G24450                           ------CAAACCTCAGAACCAAAGGTAAAA-ATAAAACAGTCTAAAGCCA
+fgenesh2_kg.4__361__AT2G24450.      GTATCTCAAACCTCAAAACCAAAGGTAAAACATAAAACAGTCTAACGCCA
+                                          ********* ************** ************** ****
+
+AT2G24450                           AATATAGAGGTAACAATAAAGTCATGTTCAAATTTAGCCAAAACAAATAT
+fgenesh2_kg.4__361__AT2G24450.      AATATAGAGGTAACAATAAAGTCAAGTTCAAATTTAGCAAAAACAAATAT
+                                    ************************ ************* ***********
+
+AT2G24450                           AAGTAAATGTCTCTCCACCATTAATCTTGAGCTCCTCTTAAGGTCTGTAT
+fgenesh2_kg.4__361__AT2G24450.      AAGTAAATGTCTCTCCACCATTAATCTTGAGCTGCTCTTAAGGTCTGTAT
+                                    ********************************* ****************
+
+AT2G24450                           ATATACCCAACCTGATCCTCTTATTGCAAACTCAGGCTTTGAGGTTTGAG
+fgenesh2_kg.4__361__AT2G24450.      ATATACCCAACCTGATCCTCTTATTGCAAACTCAGGCTTTGAGGTTTGAG
+                                    **************************************************
+
+AT2G24450                           CTTTTACTATAGAATAA-TAAGGGTAATAAACAAAGACACCCAAAG
+fgenesh2_kg.4__361__AT2G24450.      CTTTTATTATAGAAAAAATAAGGGTAATAAACAAAAACACCCAAAG
+                                    ****** ******* ** ***************** **********

@@ -1,0 +1,78 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+AT1G24520              --CAAAACAAAGGCGAGGTTACAAACA--ATATACAAGTAG--------TAGTAGAGCTG
+scaffold_103015.1      TTCCGTTTTTGGGAAAGCTCATGGATGTGATGTTCAAGTCGCTCTCACATATCGGAGGAG
+                         *        **  ** * *   *    ** * ***** *        **   ***  *
+
+AT1G24520              AGCTAAGTTAACAGACATAGCGAATCGATTTTCAAAAAGTAGATGGATCTATTCATCAAA
+scaffold_103015.1      ACGCATGTGATCGAGGATTTTGAGTTATCTGCC-----GTTGACGG-CCCATTC-TCGGA
+                       *   * ** * *    **   ** *    *  *     ** ** **  * **** **  *
+
+AT1G24520              CTACGGCATCAACATAGTA--AACACTATGCCAAGTAAACAAGAGCGAAACTAGAAATTT
+scaffold_103015.1      CGTC--CTTTGAAAGGCTTCTAGTGTTATCTTTCTTTCGCAATT-CGGCTCCTACTCCTT
+                       *  *  * *  * *   *   *    ***      *   ***   **   *       **
+
+AT1G24520              AAAAGCAGAT---------ATGAAGAAATCAAAAGGAAGAAACGAACTGATGGTGATGTC
+scaffold_103015.1      GCAGGTCTCTTCTTCTCCAACAACAAATTCGGGAAGAGCAATCAAA---ATCGTCATCGC
+                         * *    *         *  *  ** **   * **  ** * **   ** ** **  *
+
+AT1G24520              TCCGTCAGGTCCTTGAAGCATCTTATCCATTCCTTTGGGTCCAAGAGAGGATCGAA-GGA
+scaffold_103015.1      TTCGTCTTACTCCTTTAGC------TTCATCGCTTTTGTT----GAGAGGATGGACCGAA
+                       * ****     * *  ***      * ***  **** * *    ******** **  * *
+
+AT1G24520              TCCGAGCCACGGCTTTACCAGCGGCGATATTGGCTTTCTGAGCATCGATTCCTCTAAGAC
+scaffold_103015.1      TTCTAGTTATTGTTTATGCTTCCATGTTTTTACCTTTTTTGCCATGGGACCATTTGGG--
+                       * * **  *  * **   *  *   * * **  **** *   *** *   * * *  *  
+
+AT1G24520              GAGTCTTTTGATCTTGCTCTCTCAGTATAATGAACGGACGCCCGAACTCATCGAACGCCA
+scaffold_103015.1      -------TAGGTCT------------ATAATCATCG-----TCGA-----TTGTAAACCT
+                              * * ***            ***** * **      ***     * * *  ** 
+
+AT1G24520              GCGCCATTTTCGAGCTTCTCTCGATCCGATCGAACTATAGATCTTGGGTTTTTTTTGTTT
+scaffold_103015.1      AAAACGTTTTC------------ATTTTAT-GAAATAT---------------TTACATT
+                           * *****            **   ** *** ***               **   **
+
+AT1G24520              CCTAGTGCACTGGAGAGGAAAAAAAAAAGTTGAAATGGGGAAAAAAGCGAGAAGAAGAAT
+scaffold_103015.1      CTTAGCAAAAAAACAAGAATAAACTTATTTTAAGATGTGGATACCATTAATTACAATGAT
+                       * ***   *      ** * ***   *  ** * *** *** *  *   *  * **  **
+
+AT1G24520              GTCTGGAAG--AT-TTGAGAGCTTAAA--GTGGTCGAGTGTAAAAC------CCTAACTC
+scaffold_103015.1      TTCATAAAACCATCTTCACAATTTGGATCGTCTTTATATATATGTTGGTTTACATGTCTC
+                        **   **   ** ** * *  **  *  **  *    * **          * *  ***
+
+AT1G24520              GCTGTTGATGGCAGAATCGTA-AATCGGA-ATTGATTCATGG-------GCCTAACAAGA
+scaffold_103015.1      TCTGTCCACCATA-AGTCCTATAATCAAATATTTATTTATTTTTATTTTGAATACCATGA
+                        ****  *    * * ** ** ****  * *** *** **         *  ** ** **
+
+AT1G24520              CGTTTGGGCTTATGGGTTTAAAGCCC-----ATCTGA---TATAAGATG-AATAGAATGT
+scaffold_103015.1      GGTTCTGGTTCAAAGCCTTTAATCCCCCCAGATCCGAAACCACAGCATGTAATATTACTT
+                        ***  ** * *  *  ** ** ***     *** **    * *  *** ****  *  *
+
+AT1G24520              TCATGGCAA----TACT------------ATCATAATTTGGTTCTTTAATAAGACACTCG
+scaffold_103015.1      TCGTCCCAAGCGTCACTCGAACCGGCGACATCTAAGTTTCGC-CTATAATTTT-TACCAG
+                       ** *  ***     ***            ***  * *** *  ** ****     **  *
+
+AT1G24520              TTAATACGACGAT--TTGA------AGTTGAAC---GAATGGTTTCATATTCATTCGCAT
+scaffold_103015.1      TTGAGCTAACGACACTTGGTCCTATAATTAAATATTGAATGGTTTCATATTCATTCGGAT
+                       ** *    ****   ***       * ** **    ********************* **
+
+AT1G24520              GTTCACCAATCAAAATCTA-----TATCTGAACAAGTCCATTTTTAGGTACTCCAGTAGA
+scaffold_103015.1      GTTCACCAATCAAAATCTAGGGCATACCTGAGCAAATCTATTTTTAGGAACTCCAGTAGA
+                       *******************     ** **** *** ** ********* ***********
+
+AT1G24520              TTTACATTGGATTGTAAGGTAATCCTACATCTTAGTTCAAA-CGTTTTCTATTTTATTTT
+scaffold_103015.1      TGTACATTGGATTGTAAGGTAAGCCTACATCGTAGTTCAAAACATTTTCTATTTTCTTTT
+                       * ******************** ******** ********* * *********** ****
+
+AT1G24520              TGGTCTTGATCACAAAACACAACTATATATACATATCAAACTCATCTTCGGAAATCATCA
+scaffold_103015.1      TG-TCTTAACCACAAAAGAGAACTATATATACATATCAAACTCATCTCTGCAAATCATCA
+                       ** **** * ******* * ***************************  * *********
+
+AT1G24520              CAATCAATAAACCTCAAACCCTAAAATAAATTAAACGAGTTCTACGTAAGAAGGAGAGAG
+scaffold_103015.1      CAATCTATAAACCTCAAACCCTAAAATAAATTAAACGAGTTCTACGTAAGAAGGAGAGAG
+                       ***** ******************************************************
+
+AT1G24520              AGAAGA
+scaffold_103015.1      AGAAGA
+                       ******

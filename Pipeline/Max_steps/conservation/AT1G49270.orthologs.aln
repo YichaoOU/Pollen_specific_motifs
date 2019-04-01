@@ -1,0 +1,90 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+AT1G49270                           --ACAGTTA-ATCTTTTTGTATAA----------CCGCTACATTTCATTA
+fgenesh1_pm.C_scaffold_1003128      GAACCTCTATATGATTTAGGCTAAATCTTTGCTGCCAGTACATCATGTGA
+                                      **   ** **  *** *  ***          **  *****    * *
+
+AT1G49270                           TTTATGATATTTA------CATT--TTTATCAAAA----ATGA-TTCACG
+fgenesh1_pm.C_scaffold_1003128      CCCAAACTTTTTAAAAACGTATCAATTAATCGAAAGAGCATGAACTTGGA
+                                       *   * ****       **   ** *** ***    ****  *    
+
+AT1G49270                           AAGA------TTAGGAATAT--GTTTTCTTATCGCAC---TTACCATTAA
+fgenesh1_pm.C_scaffold_1003128      AAGAGGTAAATGAGAGATAACGGTTTTCTTTTTGTTCAAATGAGAAATAA
+                                    ****      * **  ***   ******** * *  *   * *  * ***
+
+AT1G49270                           GAGG--------------------------------GACATCGA-----A
+fgenesh1_pm.C_scaffold_1003128      CATGTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTGTCATCTGTAATTA
+                                     * *                                * ****       *
+
+AT1G49270                           AACATTGCATAGAAGAAAACAACACAAATGATGGTTTGATTAAGTAACAA
+fgenesh1_pm.C_scaffold_1003128      AATATTACTCAAAAGA--GCCATTCTTGTGGAATGTTGTTTACATAA--G
+                                    ** *** *  * ****   * *  *   **     *** ***  ***   
+
+AT1G49270                           TGGCGTGAACC---TCTATAGCAGGATTTAG-GCTAAATC-TTTGCT---
+fgenesh1_pm.C_scaffold_1003128      TGATATGAAGCGGTTCCGTACGAATTTTTCGTGCCAGATTATCCGCTTTT
+                                    **   **** *   **  **  *   *** * ** * **  *  ***   
+
+AT1G49270                           GCGAGTACATCATGTGA--CCCAAATTTTTAAAAACGTATCAA----TTT
+fgenesh1_pm.C_scaffold_1003128      GCATTTGCACAACGAGAAATTAAAGATAAAGAGAAGGTAGAGAACTCTTC
+                                    **   * **  * * **     **  *    * ** ***   *    ** 
+
+AT1G49270                           ATCAAGAGTATGAACTTATAAGGGGTAAGTAAATGAGAGATAACATGTTT
+fgenesh1_pm.C_scaffold_1003128      CTTGTCGCTCTGAAATTCCTCCAGATACACTGA-GAAGGCCGGC-CATTC
+                                     *      * **** **      * **     * **  *    *   ** 
+
+AT1G49270                           ATCAGATGAAATCAACCAAAGTTTTTTTTTTTTT--------TGTTGCTT
+fgenesh1_pm.C_scaffold_1003128      GGTTGGGGAAATGAACCAAAGCTTTTTTTTTTTTCTTCCAATTGTTGCTT
+                                        *  ***** ******** ************        ********
+
+AT1G49270                           CCACATGCGCATATGTGAATACGTAAACTGCCGACAAAAAAAAAAAACAT
+fgenesh1_pm.C_scaffold_1003128      CCACATGCGCATATGTGAA--------------ACATATAA---------
+                                    *******************              *** * **         
+
+AT1G49270                           TCTTTCTTTATTGCGTTTTCTAAGCGAGAATGTCGATGTGATCAGTTAAT
+fgenesh1_pm.C_scaffold_1003128      -------------------CTAAACGAAAA---CGATGTGA---GCTAAT
+                                                       **** *** **   ********   * ****
+
+AT1G49270                           GCGAACGGGTAAAATTAGATCAGTATTTATAAAAACAAAAA---GGCAGT
+fgenesh1_pm.C_scaffold_1003128      ATGAACGGGTAAAAT-----CAGTATTTATAAGAATAAAAAAAAGGCAAT
+                                      *************     ************ ** *****   **** *
+
+AT1G49270                           GGAAAATCTAGGGTTTCTAATATTAATAGCCTTGTAATCAGCATTAACTT
+fgenesh1_pm.C_scaffold_1003128      AGGAAGTCTAGAGTTTCCATT--TAAAA---TTTTAATTTTTATCTTTTT
+                                     * ** ***** ***** * *  *** *   ** ****    **    **
+
+AT1G49270                           AGAGATATTTAAATCTCAAGTTTCATTGTCAACAGAACTTATTAGTTATT
+fgenesh1_pm.C_scaffold_1003128      AAAAGGAAATGAAT--------TCATTATGAATAG--CCTTGTAATCAAC
+                                    * *   *  * ***        ***** * ** **  * *  ** * *  
+
+AT1G49270                           ATTACTGTTGAGTGATGACTGATGACCAACAACGAGTACTTGATCTTTAT
+fgenesh1_pm.C_scaffold_1003128      ATTAA-ATTCTCAGAT--TTCATTGTCAACAAA----ACTT-ATTACCGT
+                                    ****   **    ***   * **   ******     **** **     *
+
+AT1G49270                           TGAAGAACACGCAAAGAACAAATAGCTCTCGTAGCTCAGTTGGTTAGAGC
+fgenesh1_pm.C_scaffold_1003128      TGACCAACA---AAGAAACTTATTAC-CACTAAACATGCTC--TTAGGGC
+                                    ***  ****   **  ***  **  * * *  * *    *   **** **
+
+AT1G49270                           ACCCGTTTAGTAAGCGGGAGGTCTTGAGTTCAACTCTCAACGAAAGCAAT
+fgenesh1_pm.C_scaffold_1003128      ACCCGTTTTGTAAGCGGGAGGTCTTGAGTTCGACTCTCAACGAGAGCA-T
+                                    ******** ********************** *********** **** *
+
+AT1G49270                           TTTTTAAACAAATTTACATTTTACAAACAGAAAATCTAGCCTGTAACGGA
+fgenesh1_pm.C_scaffold_1003128      TTTTTAAAACAATTTACATTTTACAAACAGAAAATCTA-TCTGTAACTGA
+                                    ********  ****************************  ******* **
+
+AT1G49270                           ATATTGTCGTTGTGAATATTTTCTTTTTGCCTGGCTGTATAATCCCCAAA
+fgenesh1_pm.C_scaffold_1003128      AAATTGTCGTTGTGAAT-CTTTGTTTTTGCCTGGCTGTATAATTACCAAA
+                                    * ***************  *** ********************  *****
+
+AT1G49270                           TATAGAAATAACAAAAGAAATATTCGAAAACTTTCTTAAAAATAGATTTT
+fgenesh1_pm.C_scaffold_1003128      TATAGAAATAACAAAA--ATTATTCGAAAACTTTCTTAAAAATAGAATTT
+                                    ****************  * ************************** ***
+
+AT1G49270                           GAGAAAAGAAAAAAAATGGTTCCTTGTTCCTAGGAGAACAGGAACAGAGT
+fgenesh1_pm.C_scaffold_1003128      GAG----GGTGAAAAATGGTTCCTTGTTCCTAGGAGAACAGGAACAGAGT
+                                    ***    *   ***************************************
+
+AT1G49270                           TGGGTGTTCCTTGTTTCATCTCACATTGAAACCACCGGAGAGAGAGATA
+fgenesh1_pm.C_scaffold_1003128      TGGGTGTTTCTTGTTTCATCTCATATTGACACCACCGGAGAGAGATA--
+                                    ******** ************** ***** *************** *  

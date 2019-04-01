@@ -1,0 +1,90 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+AT2G18470                  TATTAGGTGACATATT---CTAATTGGCTGA------AAGAGGTGAATGA
+Al_scaffold_0003_3824      -ATGAATCTTCACTTTGGTTCAATTGTCTGTTGCTCCAATTGATTACGGG
+                            ** *     **  **     ***** ***       **  * * *  * 
+
+AT2G18470                  AAAGGTGAA---CCAAG---AATTGTTCGATTTTT--------AACTACA
+Al_scaffold_0003_3824      AAAAATTAAAGTTGAAGTTTAATTGTTTGTTGCTCCATGTAGGAAAGAGA
+                           ***  * **     ***   ******* * *  *         **  * *
+
+AT2G18470                  CATCTAATTCTAGACTCTA-GAGTATGCATAT----TAATGTTTCCAGAG
+Al_scaffold_0003_3824      AACCTTGTTTTTTATTCTTTGACTGCGCTTCTGTTCTTTTTTTTCCACAT
+                            * **  ** *  * ***  ** *  ** * *    *  * ****** * 
+
+AT2G18470                  ATCAGAA---AGTGCTTAAACAAAACATATTGATCACTTCATGGTTTTTA
+Al_scaffold_0003_3824      TTGTGCATCTACTGCTCAAATCTAAT---TTAGTCATTTCACAACCCTTT
+                            *  * *   * **** ***   **    **  *** ****      ** 
+
+AT2G18470                  AGT-CTTAGTTT---AATTGATGGAAAGGAGAGGATTACCAATACTGAAG
+Al_scaffold_0003_3824      AGTTCTTTATTTTTCACTTTAT---------AGTGTTATAAAT--TTAAA
+                           *** ***  ***   * ** **         **  ***  ***  * ** 
+
+AT2G18470                  TAGA--GTCATAGTTGAT-ATTTGAGGGGTGAGAACCCTGAGATTCGTAA
+Al_scaffold_0003_3824      TAAATTATCAAAATAAGTTATTTTT----------CTTTTAATTATACAA
+                           ** *   *** * *   * ****            *  * *  *    **
+
+AT2G18470                  AGAAATCGATGAACTTGTGCGTGAAGA--AATTAGTTTGATCATGCTCA-
+Al_scaffold_0003_3824      AACCGTCAATATA-TTATTGGTTAAGTCCATTTGGCTCCGTCTTCCCCAC
+                           *    ** **  * ** *  ** ***   * ** * *   ** * * ** 
+
+AT2G18470                  --AAGGTCTAAAT--AATAAAAAACCTTGACATTTGTTCCCAATTGAAGT
+Al_scaffold_0003_3824      CGGGAGTTCGACTCCACTAAATCGCGTTACCCCGCGT----AGTAGAGA-
+                                **   * *  * ****   * **  *    **    * * **   
+
+AT2G18470                  CCTTTAATTGTGAGAAAAATTATGTTGCTCTAGAGCAATATTGAAGAAAA
+Al_scaffold_0003_3824      ---TTGGCTATGGATCGGGCCCTGTCAATCCAAA--AATGT-GAAGAAAA
+                              **   * **          ***   ** * *  *** * ********
+
+AT2G18470                  AGGAGACA---TATCA----CATATGGGAAGACCTGAGGAGCAATG----
+Al_scaffold_0003_3824      AAAAATTAAATTGTCAAATCCACATGGAAA-ATTTGAGGAGCAATGGTAT
+                           *  *   *   * ***    ** **** ** *  ************    
+
+AT2G18470                  -ATTTGATTTGACGGACCAAAATAAACCAGAGATTTTCCTGACAAATTAA
+Al_scaffold_0003_3824      GATATGATATGACGGACTAGATTAA-TTAGAGATTTTCCTAACA----AA
+                            ** **** ******** * * ***   ************ ***    **
+
+AT2G18470                  GGTAATAATGCATGAGGTTACGTGGAAATGAATCAACAATCGTTAGCTCC
+Al_scaffold_0003_3824      GGTAA---------------------GATGAATCAACAATACTTAGCTCC
+                           *****                      *************  ********
+
+AT2G18470                  TAATATCACGGAGCCAAAAAGAGAAAAATTAGACCGGAGATTATTACAAT
+Al_scaffold_0003_3824      TAAGATCACGGAGCCAAAAAGAGTAAAATTAGACCGAAGATTATTACAAA
+                           *** ******************* ************ ************ 
+
+AT2G18470                  TAGTAACTAACACAAAACTGTTATTAAGACAGAAAGAGAGA--GAAGAGG
+Al_scaffold_0003_3824      TAGTAACTAACACAAAACTGTTATTAAGACAGAAAGAGAGAAAGAAGAGG
+                           *****************************************  *******
+
+AT2G18470                  CATGTTTCTCGGAATGAAGACAGAGCAAATCTCAATCTTCCTTTTTCACC
+Al_scaffold_0003_3824      CATGTTTCTCGGAATGAAGACAGAGCAAATCTCAATCTTCCTTTTTCACC
+                           **************************************************
+
+AT2G18470                  TTATTCCTATTATCATTTTCTGATCAAATGTTCAAAAACTCTCTCCCCTT
+Al_scaffold_0003_3824      TTATTCCTATAATCATTTTCAGACCAAATGTTCAAAAACTCTCTCCCCTT
+                           ********** ********* ** **************************
+
+AT2G18470                  AATCTCTTCCTCTAAGGTACACACTTTCATGCTAATCTCTTAACTAATTT
+Al_scaffold_0003_3824      AATCTCTTCCTCTAAGGTACACACTTTCATGCTAATCTCTTAACTAATTT
+                           **************************************************
+
+AT2G18470                  TGTATTAATCTCTTATATTTAGCATTACCTGTTT-------TGTTAACGA
+Al_scaffold_0003_3824      TGTATTAATCTCTTAAATTTAGCATTACCTGTTTGTTAATTTGTTAACGA
+                           *************** ******************       *********
+
+AT2G18470                  TCTAACGAACATAATAAGACAAGAACTTGTTCCAACGTTAACACCATTTT
+Al_scaffold_0003_3824      TCTAACGAACATAATAAGACAAGAACTTGTTCCAAAATTAACACCATTTT
+                           ***********************************  *************
+
+AT2G18470                  GATTATGATCTGTTTTTTCTACGTGTTGTTGTTGTTGTTCTCAGAATAAT
+Al_scaffold_0003_3824      GATTATGCTCTGTTTTTTCTACGTTTTGTTATTGTCCTTCTCAGAATAAT
+                           ******* **************** ***** ****  *************
+
+AT2G18470                  TGAGTGGTTAAGGGAGAGAGGAGACGGAGAGTTTTTATTTTCGTTACCGG
+Al_scaffold_0003_3824      TGAGTGGTTAAGGGAGAGA--AGACGGAGAGTTTTTATTTTCGTTACCGG
+                           *******************  *****************************
+
+AT2G18470                  AAAATTTTGATCTCCG
+Al_scaffold_0003_3824      AAAATTTTGATCTCCG
+                           ****************
