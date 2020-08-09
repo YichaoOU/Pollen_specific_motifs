@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Gupta, Shobhit
+AU  - Stamatoyannopoulos, John A.
+AU  - Bailey, Timothy L.
+AU  - Noble, William Stafford
+PY  - 2007
+DA  - 2007/02/26
+TI  - Quantifying similarity between motifs
+JO  - Genome Biology
+SP  - R24
+VL  - 8
+IS  - 2
+AB  - A common question within the context of de novo motif discovery is whether a newly discovered, putative motif resembles any previously discovered motif in an existing database. To answer this question, we define a statistical measure of motif-motif similarity, and we describe an algorithm, called Tomtom, for searching a database of motifs with a given query motif. Experimental simulations demonstrate the accuracy of Tomtom's E values and its effectiveness in finding similar motifs.
+SN  - 1474-760X
+UR  - https://doi.org/10.1186/gb-2007-8-2-r24
+DO  - 10.1186/gb-2007-8-2-r24
+ID  - Gupta2007
+ER  - 
